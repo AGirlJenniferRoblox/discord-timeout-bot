@@ -1,13 +1,6 @@
 Bot Altyapı Projesine Hoşgeldin!
 =================
-Merhaba Arkadaşlar Bu Altyapı 2018 Yılında Yapılmış 2021 Yılında İse Gerekli Düzeltmeleri Yapılmıştır. Bu Altyapı Discord.js v12 Sürümünü Artık Desteklemektedir! Kolaylıkla Kullanabilirsiniz!
-
-[Resmi Discord Sunucumuz](https://discord.gg/Zwr4MqyKrC)
-
-[Resmi Youtube Kanalımız](https://www.youtube.com/channel/UCVRhrcoG6FOvHGKehYtvKHg?view_as=subscriber)
-
-[Resmi İnstagram Hesabımız](https://www.instagram.com/emirhansarac06/)
-
+Merhaba. Timeout Bot Altyapı Kullanımı Sadece Replit Üzerinde Mevcuttur. Çünkü, glitch'de error verdiği için Replit Üzerinde tavsiye ederiz! İyi seyirler!
 Diğer Altyapılar!
 =================
 [Ayarlanabilen Emoji ile Rol Verme Altyapısı](https://www.youtube.com/watch?v=c715ki9tV8g)
