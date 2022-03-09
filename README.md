@@ -1,6 +1,6 @@
 Bot Altyapı Projesine Hoşgeldin!
 =================
-Merhaba. Timeout Bot Altyapı Kullanımı Sadece Replit Üzerinde Mevcuttur. Çünkü, glitch'de error verdiği için Replit Üzerinde tavsiye ederiz! İyi seyirler!
+Merhaba. Timeout Bot Altyapı Kullanımı Sadece Replit Üzerinde Mevcuttur. Çünkü, glitch'de error verdiği için Replit Üzerinde tavsiye ederiz. İyi seyirler!
 
 
 Diğer Altyapılar!
@@ -121,4 +121,5 @@ discord stat bot altyapı
 emirhan saraç discord bot altyapı
 discord hazır bot komutları
 discord uptime bot altyapı
-
+discord timeout 
+discord timeout bot
