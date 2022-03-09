@@ -1,6 +1,8 @@
 Bot Altyapı Projesine Hoşgeldin!
 =================
 Merhaba. Timeout Bot Altyapı Kullanımı Sadece Replit Üzerinde Mevcuttur. Çünkü, glitch'de error verdiği için Replit Üzerinde tavsiye ederiz! İyi seyirler!
+
+
 Diğer Altyapılar!
 =================
 [Ayarlanabilen Emoji ile Rol Verme Altyapısı](https://www.youtube.com/watch?v=c715ki9tV8g)
